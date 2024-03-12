@@ -33,3 +33,11 @@ As shown, the command statement is missing.
 ### All setup information 
 
 The working directory should have a WEEK9-lab folder with the necessary JUnit jar files, the tester file, the Java program, and the bash script. It should look similar to this: 
+
+![image](./4.png)
+
+Before fixing the bugs. To trigger the bug, we used the command `bash test.sh`, in order to test our Java program. , and if it still doesn't work, then we need to look at the other files to see if they are correct, and it is clear that this is a simple "small bug".
+
+## Part 2 - Reflection
+
+During the second half of the quarter, I delved deeper into Bash scripting and discovered the power of using loops and conditional statements to automate repetitive tasks. Learning how to write efficient Bash scripts not only improved my productivity but also gave me a better understanding of the underlying Unix-like operating system. Additionally, I learned how to leverage command-line tools and utilities effectively, enhancing my proficiency in managing and manipulating files and directories within the terminal environment.
