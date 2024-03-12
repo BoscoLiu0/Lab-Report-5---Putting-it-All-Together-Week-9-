@@ -8,4 +8,10 @@ Here is a screenshot of his output:
 
 Here's a screenshot of his bash script: 
 
-![image](./code_1.png)
+![image](./code1.png)
+
+### TA's Response
+
+You don't need to change any code, but you can consider the missing ListExamples.java file.
+
+### Student Response
